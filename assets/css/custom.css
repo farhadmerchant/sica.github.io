@@ -1,4 +1,4 @@
-img[src*="FarhadMerchant-Cropped.jpg"] {
+img[src*="assets/css/FarhadMerchant-Cropped.jpg"] {
   max-width: 10px;
   height: auto;
 }
