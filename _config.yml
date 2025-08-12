@@ -3,3 +3,5 @@
 description: Assistant Professor and Entrepreneur 
 #show_downloads: true
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
