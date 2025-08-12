@@ -1,7 +1,9 @@
 title: Secure and Innovative Computer Architectures Group
 logo: "assets/css/FarhadMerchant-Cropped.jpg"
-stylesheets:
-  - /assets/css/custom.css
+img[src*="your-image-file-name.jpg"] {
+  max-width: 30px;  /* adjust size */
+  height: auto;
+}
 description: Assistant Professor and Entrepreneur 
 #show_downloads: true
 theme: jekyll-theme-minimal
