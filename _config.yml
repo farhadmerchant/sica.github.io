@@ -1,6 +1,6 @@
 title: Secure and Innovative Computer Architectures Group
 logo: "assets/css/FarhadMerchant-Cropped.jpg"
-img[src*="your-image-file-name.jpg"] {
+img[src*="assets/css/FarhadMerchant-Cropped.jpg"] {
   max-width: 30px;  /* adjust size */
   height: auto;
 }
