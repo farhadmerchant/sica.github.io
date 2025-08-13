@@ -1,7 +1,7 @@
 [Projects](projects.html)  
 
-# News
+[News](news.html)
 
-# Students
+[Students](students.html)
 
 
