@@ -3,17 +3,11 @@ layout: default
 title: Secure and Innovative Computer Architectures Group
 ---
 
-# Secure and Innovative Computer Architectures Group
-
-![Profile](assets/css/Farhad-New.png)
-
-*Assistant Professor and Entrepreneur*
-
-## [Projects](projects.md)
+# [Projects](projects.md)
 Brief description of the group’s research projects.
 
-## [News](news.md)
+# [News](news.md)
 Latest updates and announcements.
 
-## [Students](students.md)
+# [Students](students.md)
 Meet our talented students.
