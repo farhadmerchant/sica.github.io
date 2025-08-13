@@ -5,7 +5,7 @@ title: Secure and Innovative Computer Architectures Group
 
 # Secure and Innovative Computer Architectures Group
 
-![Profile](assets/css/your-image.jpg)
+![Profile](assets/css/Farhad-New.png)
 
 *Assistant Professor and Entrepreneur*
 
