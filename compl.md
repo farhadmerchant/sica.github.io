@@ -1,4 +1,4 @@
-*Title:* Bio-Nanoelectronic based Logic Locking for Secure Systems [BioNanoLock]
+_Title:_ Bio-Nanoelectronic based Logic Locking for Secure Systems [BioNanoLock]
 
 ![BioNanoLock](assets/css/BioNanoLock-Logo.png)
 
