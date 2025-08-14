@@ -14,4 +14,14 @@ In BioNanoLock, an encoded DNA sequence acts as a secret ‘biological activatio
 
 This, in turn, enables the CMOS-based key-gates in the logic-locked circuit with the appropriate key value. Different voltage-levels in the multi-valued logic define the “on” or “off” state of the key-gates, thereby adding another level of ambiguity for an attacker and making it harder for the attacker to unlock the circuit.
 
+**Title:** Efficient and Accurate Realization of Matrix Inversion Using Posit Arithmetic for Communication Systems [ERIC]
 
+**Role:** Principal Investigator 
+
+**Funding Agency:** TETRAMAX - Horizon Europe
+
+**Funding Amount:** 20 k€ (technology transfer to Nokia Bell Labs)
+
+**Final Report:** Click \href{https://www.tetramax.eu/media/public/ttx/TETRAMAX_RWTH_TTX_ERIC_results.pdf}{here}
+
+**Description:** Matrix computations dominate the current generation communication systems. The computations are performed using IEEE 754 compliant floating-point arithmetic and/or fixed-point arithmetic. Some of these computations can be greatly benefitted with a data-type and arithmetic that contains more information-per-bit compared to classical IEEE 754 compliant or fixed-point data-types. Posit data-type and arithmetic is one such format. In ERIC, we transferred analyses of efficient matrix inversion software routine using posit arithmetic and showed the superiority of the implementation over realisations with IEEE compliant floats, and fixed point. Later, hardware based analyses are transferred for power-performance-area based exploration. We used SoftPosit and RISC-V based platforms for our data-generation in this technology transfer.
