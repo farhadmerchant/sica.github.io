@@ -4,7 +4,6 @@ title: Projects
 ---
 
 # Projects
-Here is where we describe ongoing and past projects.
+# [Running](running.md)
+# [Completed](compl.md)
 
-- Project 1
-- Project 2
