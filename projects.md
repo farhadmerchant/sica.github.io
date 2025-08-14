@@ -4,6 +4,6 @@ title: Projects
 ---
 
 # Projects
-# [Running](running.md)
-# [Completed](compl.md)
+## [Running](running.md)
+## [Completed](compl.md)
 
