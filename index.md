@@ -8,4 +8,4 @@ title: Secure and Innovative Computer Architectures Group
 
 # [News](news.md)
 
-# [Students](students.md)
+# [Scientific Staff](students.md)
